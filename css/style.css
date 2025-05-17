@@ -1,0 +1,91 @@
+html{
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
+#topo{
+    /* height: 100vh; */
+    background-image: url(../assets/img/tubos-de-ensaio-sangue-2.webp);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position-y: -20vh;
+}
+
+#botaoTopo{
+    background-color: #001a7a;
+    color: white;
+}
+
+#botaoTopo:hover{
+    background-color: #007bff;
+}
+
+.opacidade
+{
+   opacity: 0.7;
+}
+
+#fundoBranco{
+    height: 100vh;
+    background-color: rgba(255, 255, 255, 0.75);
+}
+
+
+
+#problemas{
+    background-color:rgb(219, 219, 219);
+}
+
+#funcionalidades{
+    background-image: url(../assets/img/pessoa-utilizando-celular.webp);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position-y: -20vh;
+}
+
+#botaoFuncionalidades{
+    background-color: #FF944B;
+    color: rgb(0, 4, 107);
+}
+
+#botaoFuncionalidades:hover{
+    background-color: rgb(0, 4, 107, 0);
+    border-color: #FF944B;
+    color: #FF944B;
+}
+
+#fundoAzul{
+    background-color: rgb(0, 4, 107, 0.95);
+}
+
+#materiais{
+    background-color: white;
+}
+
+#testeGratis{
+    background-color: #FF944B;
+}
+
+#roteiro{
+    background-image: url(../assets/img/carro-com-gps.webp);
+    background-size: cover;
+    background-attachment: fixed;
+    /* background-position-x: -30vh; */
+    background-repeat: no-repeat;
+
+}
+
+
+
+#celular{
+    background-image: url(../assets/img/celular-notebook.webp);
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+#contato{
+    background-color: #050036;
+}
+
+
